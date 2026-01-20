@@ -6,8 +6,6 @@
 
 ☁️ I’m highly interested in **cloud & platform engineering** — working with **Docker**, **Kubernetes**, CI/CD, self-hosting, and running services on real servers (AWS EC2, Raspberry Pi, K3s). I care about how systems behave in production, not just local development.
 
-🧠 Currently sharpening my fundamentals around **Node.js internals**, async patterns, streams, process management, and building side projects involving cron jobs and third-party integrations.
-
 🎮 Outside of coding, I enjoy video games, exploring new technologies, and occasionally tinkering with hardware or self-hosted setups.
 
 📫 Reach me at **`adlee.afiff@gmail.com`**. Always happy to talk backend, systems, or side projects 🚀
